@@ -46,12 +46,10 @@
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StroeAdrianFF&layout=compact)
-
 <br />
 <br />
 
 ---
-
   <img align="left" alt="StroeAdrianFF's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=StroeAdrianFF&show_icons=true&hide_border=true?&theme=tokyonight" />
 
 
