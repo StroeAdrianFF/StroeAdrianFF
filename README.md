@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love the Japanese culture and everything that comes with it, including the language itself.
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem-nu-cyan.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/stroeadrianf)
+[<img src="https://novatorem.stroeadrianff.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/stroeadrianf)
 
 ### Connect with me:
 
