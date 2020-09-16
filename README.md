@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on becoming a better [React.js developer][website]!
 - 🌱 I’m currently learning as much as I can!
-- 👯 I’m looking forward to developing myself as a developer with each task I have at hand.
+- 👯 I’m looking forward to growing as a developer with each task I have at hand.
 - 🥅 2020 Goal: getting a Jr. Front-End Developer job.
 - ⚡ Fun fact: I love the Japanese culture and everything that comes with it, including the language itself.
 
