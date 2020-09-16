@@ -11,8 +11,6 @@
 - 🥅 2020 Goal: getting a Jr. Front-End Developer job.
 - ⚡ Fun fact: I love the Japanese culture and everything that comes with it, including the language itself.
 
-### Spotify Playing 🎧
-[<img src="https://novatorem.stroeadrianff.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/stroeadrianf)
 
 ### Connect with me:
 
