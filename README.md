@@ -1,4 +1,4 @@
-### Hi there, I'm [Adrian][website] 👋
+### Hi there, I'm Adrian!<!--[Adrian][website]--> 👋
 
 <!--[![Website](https://img.shields.io/website?label=stroe-adrian.ro&style=for-the-badge&url=https%3A%2F%2Fstroe-adrian.ro)](https://stroe-adrian.ro)-->
 
@@ -54,6 +54,6 @@
 
 
 
-[website]: https://stroe-adrian.ro
+<!-- [website]: https://stroe-adrian.ro -->
 [instagram]: https://www.instagram.com/stroeadrianf/
 [linkedin]: https://www.linkedin.com/in/stroe-adrian/
