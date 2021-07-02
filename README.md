@@ -50,8 +50,8 @@
 <br />
 
 ---
-<img align="left" alt="StroeAdrianFF's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=StroeAdrianFF&show_icons=true&hide_border=true" />
-
+<!-- <img align="left" alt="StroeAdrianFF's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=StroeAdrianFF&show_icons=true&hide_border=true" />
+ -->
 
 
 <!-- [website]: https://stroe-adrian.ro -->
